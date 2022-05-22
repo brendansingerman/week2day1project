@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My Blog</h1>
+<p><a href="/Users/brendansingerman/Desktop/firstProject/My Blog">Home</a> <a href="/Users/brendansingerman/Desktop/firstProject/About me">About</a> <a href="/Users/brendansingerman/Desktop/firstProject/Contact me">Contact Me</a></p>
+<h2>Like food? Here's my top 3!</h2>
+<ol>
+    <li>Mexican food</li>
+    <li>Burgers</li>
+    <li>Italian food</li>
+</ol>
+
+</body>
+</html>

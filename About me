@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>About Me</h1>
+<p><a href="/Users/brendansingerman/Desktop/firstProject/My Blog">Home</a> <a href="/Users/brendansingerman/Desktop/firstProject/About me">About</a> <a href="/Users/brendansingerman/Desktop/firstProject/Contact me">Contact Me</a></p>
+<h2>Here are some interesting facts about me!</h2>
+<ul>
+    <li>I enjoy exciting activities like off-roading</li>
+    <li>I have two dogs</li>
+    <li>I studied abroad in europe learning to cook</li>
+    
+</body>
+</html>
